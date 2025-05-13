@@ -1,0 +1,16 @@
+Ideas for Networking Practice
+
+: Combination of Systems Logger and Server
+ - Send system data gathered via systems logger 
+ - Enable me to ping the server from my phone, to get update on system stats from wherever I am
+
+
+- Server format is the same as if it was done over local
+ - the server shouldn't necessarily care where it is connecting to, just that it is sending data
+ 
+- Systems Logger component
+ - Already have the architecture for this via my Systems-Logger for the Raspberry Pi
+ - Place data into a struct for transmission
+
+ 
+ 
