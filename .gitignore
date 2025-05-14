@@ -1,0 +1,11 @@
+# ignore all object files
+*.o
+
+# ignore all executables
+*.exe
+
+# ignore csv files
+*.csv
+
+# ignore text files
+*.txt
